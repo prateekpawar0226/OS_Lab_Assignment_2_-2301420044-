@@ -1,0 +1,8 @@
+2025-09-22 05:23:38,373 - Process-1[PID 16638] - Process-1 started
+2025-09-22 05:23:38,374 - MainProcess[PID 16637] - Launched Process-1 PID=16638
+2025-09-22 05:23:38,378 - Process-2[PID 16639] - Process-2 started
+2025-09-22 05:23:38,375 - MainProcess[PID 16637] - Launched Process-2 PID=16639
+2025-09-22 05:23:40,374 - Process-1[PID 16638] - Process-1 ended
+2025-09-22 05:23:40,375 - MainProcess[PID 16637] - Process-1 joined (exit=0)
+2025-09-22 05:23:40,380 - Process-2[PID 16639] - Process-2 ended
+2025-09-22 05:23:40,381 - MainProcess[PID 16637] - Process-2 joined (exit=0)
